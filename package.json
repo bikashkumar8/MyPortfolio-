@@ -1,0 +1,14 @@
+{
+  "name": "myportfolio-website",
+  "version": "1.0.0",
+  "description": "This is my personal portfolio website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bikash Kumar Teli",
+  "license": "ISC",
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0"
+  }
+}
